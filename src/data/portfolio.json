@@ -1,0 +1,450 @@
+{
+  "name": "Utkarsh Tiwari",
+  "role": "Full Stack Developer Intern",
+  "tagline": "Aspiring Full Stack Developer passionate about building scalable web applications and integrating AI-powered solutions.",
+  "about": "Utkarsh Tiwari is an aspiring Full Stack Developer with 1.5 years of experience, currently an SDE Intern at Adizen.ai. Passionate about building scalable web applications and integrating AI-powered solutions, he is a Computer Science student. His expertise spans frontend development with React/Next.js, backend systems with Node.js, NestJS, and Python, database management (PostgreSQL, MySQL, MongoDB), and cloud platforms. Utkarsh has a proven track record in optimizing performance, enhancing user experience, and developing AI-assisted tools to boost productivity.\n\nFor Trijog, I delivered key enhancements to their Zenflow platform, streamlining administrative and For Adizen - ERP Lite, I delivered a key workflow upgrade by resolving a bug in the calendar",
+  "experience": 1.5,
+  "currentRole": "SDE Intern at Adizen.ai",
+  "highlights": [
+    "Led development of a production-grade client onboarding system for a healthcare platform, implementing OTP-less phone authentication, therapist matching based on mental-health questionnaires and appointment scheduling.",
+    "Resolved a critical production deployment failure on DigitalOcean caused by Prisma-database schema drift, restoring backend services with zero downtime and ensuring data integrity.",
+    "Built MediaSoup WebRTC signaling for realtime chatting, reducing signaling latency by 30% and improving real-time sync for 1000+ concurrent users.",
+    "Developed a Python-based CLI AI assistant that automated internal developer workflows, reducing manual overhead by 40% and boosting engineering productivity.",
+    "Built event-driven backend systems with Azure Functions + RabbitMQ, orchestrating 10K+ async tasks/day, achieving 99.9% task completion reliability at scale."
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "skills": [
+        "C++",
+        "JavaScript",
+        "Java",
+        "TypeScript",
+        "Python",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Coursework",
+      "skills": [
+        "Data Structures and Algorithms",
+        "Object Oriented Programming",
+        "Database Management System",
+        "Software Engineering",
+        "Operating System"
+      ]
+    },
+    {
+      "name": "Development",
+      "skills": [
+        "Node JS",
+        "Express JS",
+        "SpringBoot",
+        "RabbitMQ",
+        "Next.Js",
+        "React.Js",
+        "Firebase",
+        "TailwindCSS",
+        "Nginx",
+        "Git/GitHub",
+        "Docker",
+        "Prisma",
+        "Drizzle",
+        "Zustand",
+        "Valtio",
+        "Tanstack",
+        "Redis",
+        "React Native"
+      ]
+    },
+    {
+      "name": "Database Systems",
+      "skills": [
+        "MySQL",
+        "PostgreSQL",
+        "SQLite",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "Professional Tools",
+      "skills": [
+        "Management persona",
+        "Revenue",
+        "Metric",
+        "Removal",
+        "from",
+        "Management",
+        "Dashboard",
+        "Therapist"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "DailyBasket: [Grocery Shopping App]",
+      "description": "Built RESTful backend APIs for authentication, cart, and product management, supporting 10K+ items with optimized DB indexing. Designed state management & caching layers to reduce query latency by 35%.",
+      "tech": []
+    },
+    {
+      "name": "Septron: [Video Streaming]",
+      "description": "Developed APIs with token-based authentication + Google OAuth, ensuring secure access control. Implemented server-side pagination + Redis caching, cutting data fetch latency by 25%. Configured Linux servers (Nginx, PM2 process manager) for efficient video delivery and scalability.",
+      "tech": []
+    },
+    {
+      "name": "Trijog",
+      "description": "For Trijog, this professional significantly enhanced the platform's administrative and corporate booking capabilities. Key",
+      "tech": []
+    },
+    {
+      "name": "Adizen - ERP Lite",
+      "description": "For Adizen's ERP Lite, I delivered a key workflow upgrade by resolving a bug that displayed completed",
+      "tech": []
+    },
+    {
+      "name": "YOS SPORTS HEALTH SPECIALISTS",
+      "description": "For YOS SPORTS HEALTH SPECIALISTS, I am currently developing the backend infrastructure for their new",
+      "tech": []
+    },
+    {
+      "name": "Adizen",
+      "description": "For Adizen, we successfully completed the Statement of Work for a key business development initiative. This",
+      "tech": []
+    }
+  ],
+  "contact": {
+    "email": "utkarshtiwari1750@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/utkarsh-tiwari-1a4b91256",
+    "github": "https://github.com/utkarsh-adi"
+  },
+  "epicWork": [
+    {
+      "companyId": 14,
+      "companyName": "Trijog",
+      "epics": [
+        {
+          "epicId": 68,
+          "epicName": "Zenflow v2",
+          "tasks": [
+            {
+              "name": "Revenue Metric Removal from Management Dashboard",
+              "status": "in_progress",
+              "epicName": "Zenflow v2",
+              "moduleName": "Management persona"
+            },
+            {
+              "name": "Therapist Occupancy Rate Analytics",
+              "status": "in_progress",
+              "epicName": "Zenflow v2",
+              "moduleName": "Management persona"
+            },
+            {
+              "name": "Preferred Therapist Recommendation Display Based on User Type",
+              "status": "in_progress",
+              "epicName": "Zenflow v2",
+              "moduleName": "Admin Persona"
+            },
+            {
+              "name": "CST/FCT Consistency Enforcement Across Booking & Appointment Flows",
+              "status": "in_progress",
+              "epicName": "Zenflow v2",
+              "moduleName": "Admin Persona"
+            },
+            {
+              "name": "Pricing Flow Optimization & Updates",
+              "status": "in_progress",
+              "epicName": "Zenflow v2",
+              "moduleName": "Management persona"
+            },
+            {
+              "name": "Couple Booking CST/FCT Assignment Synchronization",
+              "status": "in_progress",
+              "epicName": "Zenflow v2",
+              "moduleName": "Admin Persona"
+            },
+            {
+              "name": "Absent/Present Management Actions on Admin Dashboard",
+              "status": "in_progress",
+              "epicName": "Zenflow v2",
+              "moduleName": "Admin Persona"
+            },
+            {
+              "name": "Calendar Enhancement for Separate Online & In-Center Slot Visibility",
+              "status": "in_progress",
+              "epicName": "Zenflow v2",
+              "moduleName": "Admin Persona"
+            },
+            {
+              "name": "Strike Message Confirmation Flow During Appointment Cancellation",
+              "status": "in_progress",
+              "epicName": "Zenflow v2",
+              "moduleName": "Admin Persona"
+            },
+            {
+              "name": "Corporate Booking Micro-site Integration",
+              "status": "in_progress",
+              "epicName": "Zenflow v2",
+              "moduleName": "Corporate HR Persona"
+            },
+            {
+              "name": "Multi-Channel Corporate Communication Support (3 WhatsApp Numbers & 3 Email IDs)",
+              "status": "in_progress",
+              "epicName": "Zenflow v2",
+              "moduleName": "Corporate HR Persona"
+            },
+            {
+              "name": "Implement Therapist Penalties Feature",
+              "status": "in_progress",
+              "epicName": "Zenflow v2",
+              "moduleName": "Admin Persona"
+            },
+            {
+              "name": "Add invoice PDF's",
+              "status": "in_progress",
+              "epicName": "Zenflow v2",
+              "moduleName": "Management persona"
+            },
+            {
+              "name": "some incorrect statistics formulas",
+              "status": "in_progress",
+              "epicName": "Zenflow v2",
+              "moduleName": "Management persona"
+            },
+            {
+              "name": "Improve Case History Summary.",
+              "status": "in_progress",
+              "epicName": "Zenflow v2",
+              "moduleName": "Staff Persona"
+            },
+            {
+              "name": "Add sub type option in Package Invoice PDF",
+              "status": "in_progress",
+              "epicName": "Zenflow v2",
+              "moduleName": "Business Development Persona"
+            },
+            {
+              "name": "Test Staff Persona Flow",
+              "status": "completed",
+              "epicName": "Zenflow v2",
+              "moduleName": "Staff Persona"
+            },
+            {
+              "name": "Manual Package Invoice Creation Workflow",
+              "status": "completed",
+              "epicName": "Zenflow v2",
+              "moduleName": "Corporate HR Persona"
+            },
+            {
+              "name": "Appointment Form Slideover Integration in Admin Panel",
+              "status": "completed",
+              "epicName": "Zenflow v2",
+              "moduleName": "Admin Persona"
+            },
+            {
+              "name": "Package Creation Slideover Restructuring & Field Updates",
+              "status": "completed",
+              "epicName": "Zenflow v2",
+              "moduleName": "Corporate HR Persona"
+            },
+            {
+              "name": "Slot Delete \"Apply All\" should only delete future slots",
+              "status": "completed",
+              "epicName": "Zenflow v2",
+              "moduleName": "Staff Persona"
+            },
+            {
+              "name": "Session Mode Multi-Select Support in Package Creation",
+              "status": "completed",
+              "epicName": "Zenflow v2",
+              "moduleName": "Corporate HR Persona"
+            },
+            {
+              "name": "Corporate Package Edit Functionality",
+              "status": "completed",
+              "epicName": "Zenflow v2",
+              "moduleName": "Corporate HR Persona"
+            },
+            {
+              "name": "Corporate Information Table Enhancement (Contract Period & POC Details)",
+              "status": "completed",
+              "epicName": "Zenflow v2",
+              "moduleName": "Corporate HR Persona"
+            },
+            {
+              "name": "Complimentary Session Support in Package Details",
+              "status": "completed",
+              "epicName": "Zenflow v2",
+              "moduleName": "Corporate HR Persona"
+            },
+            {
+              "name": "Package Review Flow Simplification",
+              "status": "completed",
+              "epicName": "Zenflow v2",
+              "moduleName": "Corporate HR Persona"
+            },
+            {
+              "name": "Employee Session Cap Configuration Update",
+              "status": "completed",
+              "epicName": "Zenflow v2",
+              "moduleName": "Corporate HR Persona"
+            },
+            {
+              "name": "Responsiveness",
+              "status": "completed",
+              "epicName": "Zenflow v2",
+              "moduleName": "Client Persona"
+            },
+            {
+              "name": "Test All Admin Function",
+              "status": "completed",
+              "epicName": "Zenflow v2",
+              "moduleName": "Admin Persona"
+            },
+            {
+              "name": "Test Corporate HR Flow",
+              "status": "completed",
+              "epicName": "Zenflow v2",
+              "moduleName": "Corporate HR Persona"
+            },
+            {
+              "name": "Create videos for: Session Type Creation (for each User Type), Session Mode Creation, Center Creation, Therapist Creation, Pricing, and Edit, From Therapist side, From Admin side, Booking Couple and Family, WhatsApp, Email, BD Persona, All tabs of Business / Corporate, Client Profile",
+              "status": "completed",
+              "epicName": "Zenflow v2",
+              "moduleName": "Management persona"
+            },
+            {
+              "name": "Test Mgmt Flows",
+              "status": "completed",
+              "epicName": "Zenflow v2",
+              "moduleName": "Management persona"
+            },
+            {
+              "name": "Update Patient Profile: Add ‘Create Package’ Option and Rename Files to Therapist File",
+              "status": "completed",
+              "epicName": "Zenflow v2",
+              "moduleName": "Admin Persona"
+            },
+            {
+              "name": "Disable ‘Start Session’ and 'Attendance Actions' Before and After Session Time in Therapist Dashboard",
+              "status": "completed",
+              "epicName": "Zenflow v2",
+              "moduleName": "Staff Persona"
+            },
+            {
+              "name": "Allow Admin to Edit Lead’s Phone Number and Email Address",
+              "status": "completed",
+              "epicName": "Zenflow v2",
+              "moduleName": "Admin Persona"
+            },
+            {
+              "name": "Increase Slot Creation Limit from 6 Months to 1 Year",
+              "status": "completed",
+              "epicName": "Zenflow v2",
+              "moduleName": "Admin Persona"
+            },
+            {
+              "name": "Fix Phone Number Validation in Corporate Employee Bulk Import",
+              "status": "completed",
+              "epicName": "Zenflow v2",
+              "moduleName": "Corporate HR Persona"
+            },
+            {
+              "name": "Add Google Calendar Event for In-Person Sessions",
+              "status": "completed",
+              "epicName": "Zenflow v2",
+              "moduleName": "Admin Persona"
+            },
+            {
+              "name": "Add Delete Staff Functionality",
+              "status": "completed",
+              "epicName": "Zenflow v2",
+              "moduleName": "Management persona"
+            },
+            {
+              "name": "Fix Today's Appointment Count Display on Therapist Dashboard",
+              "status": "completed",
+              "epicName": "Zenflow v2",
+              "moduleName": "Staff Persona"
+            }
+          ]
+        }
+      ],
+      "summary": "For Trijog, I delivered key enhancements to their Zenflow platform, streamlining administrative and"
+    },
+    {
+      "companyId": 9,
+      "companyName": "Adizen - ERP Lite",
+      "epics": [
+        {
+          "epicId": 77,
+          "epicName": "Adizen v2",
+          "tasks": [
+            {
+              "name": "Link CRM with copilot",
+              "status": "in_progress",
+              "epicName": "Adizen v2",
+              "moduleName": "Integrations"
+            }
+          ]
+        },
+        {
+          "epicId": 7,
+          "epicName": "ERP Lite for Adizen",
+          "tasks": [
+            {
+              "name": "Finish CoPilot-to-Slack notifications w/ Tejaswi; then Divya integrates CodeRabbit PR review - 1",
+              "status": "in_progress",
+              "epicName": "ERP Lite for Adizen",
+              "moduleName": "Bug Fixes"
+            },
+            {
+              "name": "[Bug] On the calendar, completed tasks are visible while booking slots for tasks",
+              "status": "completed",
+              "epicName": "ERP Lite for Adizen",
+              "moduleName": "Workflow Upgrades"
+            }
+          ]
+        }
+      ],
+      "summary": "For Adizen - ERP Lite, I delivered a key workflow upgrade by resolving a bug in the calendar"
+    },
+    {
+      "companyId": 7,
+      "companyName": "YOS SPORTS HEALTH SPECIALISTS",
+      "epics": [
+        {
+          "epicId": 47,
+          "epicName": "Whatsapp lead mgmt",
+          "tasks": [
+            {
+              "name": "Setup backend for Repo Agent 2",
+              "status": "in_progress",
+              "epicName": "Whatsapp lead mgmt",
+              "moduleName": "Appointment And Payment on Whatsapp"
+            }
+          ]
+        }
+      ],
+      "summary": "For YOS SPORTS HEALTH SPECIALISTS, I am currently developing the backend infrastructure for a new WhatsApp-"
+    },
+    {
+      "companyId": 52,
+      "companyName": "Adizen",
+      "epics": [
+        {
+          "epicId": 16,
+          "epicName": "BD",
+          "tasks": [
+            {
+              "name": "Off Court SOW",
+              "status": "completed",
+              "epicName": "BD",
+              "moduleName": "BD Task"
+            }
+          ]
+        }
+      ],
+      "summary": "For Adizen, we successfully delivered the Statement of Work (SOW) for their \""
+    }
+  ]
+}
